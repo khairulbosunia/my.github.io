@@ -1,0 +1,67 @@
+*{padding:0;margin:0;}
+
+p{
+	line-height:150%;	
+}
+
+a{
+	display:block;
+	text-decoration:none;
+}
+
+.content_ber{
+	width:100%;
+	overflow:hidden;
+}
+
+.main_content{
+	width:2080px;
+	display:block;
+	margin:0 auto;
+}
+
+.first_div{
+	float:left;
+	overflow:hidden;
+	width:690px;
+	background:#F7D320;
+}
+
+.first_div h1{
+	font-size: 170.22px;
+    padding: 0px 142px;
+    padding-top: 168px;
+    color: white;
+
+.first_div p{
+	font-size: 54.58px;
+    padding: 0px 126px;
+    padding-bottom: 200px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
